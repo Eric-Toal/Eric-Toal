@@ -1,4 +1,4 @@
-### Hi there 👋
+Howdy, I am really just getting into the world of Data and Coding. Iam excited for the Journey!
 
 <!--
 **Eric-Toal/Eric-Toal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
